@@ -1,4 +1,5 @@
-module redis-store
+module github.com/freemen-app/redis-store
+
 
 go 1.14
 

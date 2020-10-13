@@ -8,7 +8,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	redisStore "redis-store"
+	redisStore "github.com/freemen-app/redis-store"
 )
 
 var (

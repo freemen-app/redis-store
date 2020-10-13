@@ -8,7 +8,7 @@ import (
 	validation "github.com/go-ozzo/ozzo-validation/v4"
 	"github.com/stretchr/testify/assert"
 
-	redisStore "redis-store"
+	redisStore "github.com/freemen-app/redis-store"
 )
 
 func TestConfig_Validate(t *testing.T) {
